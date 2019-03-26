@@ -1,6 +1,6 @@
 # Portfolio
 
-Here are a few of the sites I worked on while at Advansys:
+Here are a few of the sites I worked on while at Advansys. This is just a small selection, but they're ones that I did the majority of the front-end work on.
 
 ## Roch Valley
 https://www.roch-valley.co.uk/
