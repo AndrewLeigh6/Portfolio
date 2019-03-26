@@ -6,7 +6,7 @@ Here are a few of the sites I worked on while at Advansys:
 https://www.roch-valley.co.uk/
 ![](https://github.com/AndrewLeigh6/Portfolio/blob/master/rochvalley.png)
 
-Responsive view: 
+Here's a sample of the site when viewed in a smaller window: 
 ![](https://github.com/AndrewLeigh6/Portfolio/blob/master/rochvalley-tab.png)
 
 ---
