@@ -6,6 +6,9 @@ Here are a few of the sites I worked on while at Advansys:
 https://www.roch-valley.co.uk/
 ![](https://github.com/AndrewLeigh6/Portfolio/blob/master/rochvalley.png)
 
+Responsive view: 
+![](https://github.com/AndrewLeigh6/Portfolio/blob/master/rochvalley-tab.png)
+
 ---
 
 ## Focusrite Store
